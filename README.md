@@ -1,22 +1,23 @@
 # eTrek
 Emergency Response Tracking Web Application
 
-Overview
+## Overview
 
 This web application is designed to track individuals in real-time during emergency situations such as evacuation, camping, and hiking. The goal is to provide a reliable and efficient system for emergency responders to locate and assist individuals in distress.
 
-Features
+## Features
 
-Real-time GPS tracking of individuals.
-Emergency alert system for users to request assistance.
-User-friendly interface for both individuals and emergency responders.
-Technology Stack
+- Real-time GPS tracking of individuals.
+- Emergency alert system for users to request assistance.
+- User-friendly interface for both individuals and emergency responders.
 
-Backend:
+## Technology Stack
 
-Python with Django framework.
-Database: PostgreSQL for storing user data.
-Frontend:
+- **Backend:**
+  - Python with Django framework.
+  - Database: MySQL for storing user data.
 
-HTML, CSS, JavaScript.
-Mapping: Integration with Google Maps API for location visualization.
+- **Frontend:**
+  - HTML, CSS, JavaScript.
+  - Mapping: Integration with Google Maps API for location visualization.
+
